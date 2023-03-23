@@ -58,7 +58,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Moin Khan</h1>
+      <h1>Mohd Anees</h1>
       <p><span class="typed" data-typed-items=" Fitness Expert , Certified Coach, Motivational Speaker"></span></p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
