@@ -1,8 +1,8 @@
 <?php
     if(isset($_POST) && !empty($_POST)){
-        $to = 'tsaifi847@gmail.com';
+        $to = 'anees.office@gmail.com';
         $headers = "From: ";
-        $subject = 'qubzllc.com Query';
+        $subject = 'www.vacyfashions.com Query';
         $message = NULL;
         $conerror = false;
 
