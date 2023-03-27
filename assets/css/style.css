@@ -50,6 +50,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.hemburgerBg {
+  background-color: white;height: 59px;position: fixed;z-index: 1;top: 0;width: 100%;
+}
+.btn-custom {
+  background-color: #a26333;
+  color: #FFF;
+  text-transform: capitalize;
+}
+.btn-custom:hover {
+  background-color: #545454;
+  color: #FFF;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
